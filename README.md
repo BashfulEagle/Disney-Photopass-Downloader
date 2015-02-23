@@ -15,6 +15,10 @@ For Firefox or Chome, the easiest way to install the script is to first have [Gr
 [script]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 
 ### How to Use
+After the script is installed and enabled, you will see new buttons to download your images. You can download a range of photos, 20 at a time, or you can download them all at once.
+
+Each photo will open its own download prompt, so if you have a lot of photos, be prepared to click OK on them all (or set the default action to Download).
+
 | Standard Page  | With Userscript  |
 |---|---|
 |![Before][before]|![After][after] |
