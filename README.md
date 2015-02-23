@@ -14,6 +14,14 @@ For Firefox or Chome, the easiest way to install the script is to first have [Gr
 [tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkf
 [script]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 
+### How to Use
+| Standard Page  | With Userscript  |
+|---|---|
+|![Before][before]|![After][after] |
+
+[before]: /images/without_script.png?raw=true "Before script is installed"
+[after]: /images/with_script.png?raw=true "After script is installed"
+
 ### Known Issues
 * Firefox prevents this script from opening more than 20 tabs, even if popups are explicitely allowed for the photopass site.
  * Workaround: Use the range function to download photos 20 at a time. After you save the first 20, increment the range input and click 'Open' to download the next 20.
