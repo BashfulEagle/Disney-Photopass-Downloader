@@ -28,7 +28,7 @@ For Firefox or Chome, the easiest way to install the script is to first have [Gr
 * Images do not contain date/time EXIF information. This cannot be altered by JavaScript and thus cannot be modified solely with this Greasemonkey script. Try the Linux Python script for those advanced features.
 * New versions of Chrome prevent the script from installing.
  * Workaround: Open a new window and go to the url "chrome:extensions". Then drag-and-drop the [script url][script] onto the extensions page, where Chrome will then let you install the script.
- * 
+
 ## Python Linux Script
 Run from a command prompt, this automatically downloads all photos, names them with a date and location filename, and sets both the EXIF timestamp and OS timestamp.
 
