@@ -10,6 +10,8 @@ A UserScript (greasemonkey script) that alters the Photopass page, allowing you 
 
 ### Installation Instructions
 The easiest way to install the script is to first have [GreaseMonkey][greasemonkey] ([Firefox][gm_firefox]) or [TamperMonkey][tampermonkey] ([Chrome][tm_chrome], [Safari][tm_safari], [Opera][tm_opera]). If you have those addons installed already, simply [open the script][script] and follow the prompts to install it.
+
+For more detailed steps, [follow these instructions][instructions] for your particular browser.
 [greasemonkey]: http://www.greasespot.net/
 [gm_firefox]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
 [tampermonkey]: https://tampermonkey.net/index.php
@@ -17,6 +19,7 @@ The easiest way to install the script is to first have [GreaseMonkey][greasemonk
 [tm_safari]: https://tampermonkey.net/index.php?ext=dhdg&browser=safari
 [tm_opera]: https://tampermonkey.net/index.php?ext=dhdg&browser=opera
 [script]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
+[instructions]: http://stackapps.com/tags/script/info
 
 ### How to Use
 After the script is installed and enabled, you will see new buttons to download your images. You can download a range of photos (20 at a time), or you can download them all at once.
