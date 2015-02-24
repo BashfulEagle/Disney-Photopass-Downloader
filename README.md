@@ -1,4 +1,5 @@
-# Disney Photopass Downloader
+# ![Logo][logo] Disney Photopass Downloader
+[logo]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/images/logo_rectangle_64.png
 This repo contains two programs designed to download medium resolution Photopass images. These images are the same ones seen in the built-in slideshow page on the Photopass website. If you want full resolution images, you'll have to actually purchase them, but the medium resolution images are sufficient for facebook.
 
 The first program is a UserScript, which installs to your browser and gives you a couple of links on the Photopass website to download your photos.
