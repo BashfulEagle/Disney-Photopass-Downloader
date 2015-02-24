@@ -9,9 +9,13 @@ Alternatively, the Python script, which currently only runs on Linux, lets you b
 A UserScript (greasemonkey script) that alters the Photopass page, allowing you to download each photo individually in medium resolution (max 1280 pixels on one edge). It will also save the filename based on the location and date/time that the photo was taken.
 
 ### Installation Instructions
-For Firefox or Chome, the easiest way to install the script is to first have [GreaseMonkey][greasemonkey] (Firefox) or [TamperMonkey][tampermonkey] (Chrome). If you have those addons installed already, simply [open the script][script] and follow the prompts to install it.
-[greasemonkey]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
-[tampermonkey]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkf
+The easiest way to install the script is to first have [GreaseMonkey][greasemonkey] ([Firefox][gm_firefox]) or [TamperMonkey][tampermonkey] ([Chrome][tm_chrome], [Safari][tm_safari], [Opera][tm_opera]). If you have those addons installed already, simply [open the script][script] and follow the prompts to install it.
+[greasemonkey]: http://www.greasespot.net/
+[gm_firefox]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
+[tampermonkey]: https://tampermonkey.net/index.php
+[tm_chrome]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkf
+[tm_safari]: https://tampermonkey.net/index.php?ext=dhdg&browser=safari
+[tm_opera]: https://tampermonkey.net/index.php?ext=dhdg&browser=opera
 [script]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 
 ### How to Use
