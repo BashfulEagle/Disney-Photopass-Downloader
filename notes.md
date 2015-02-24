@@ -104,7 +104,7 @@ Code | Venue | Acronym | Details
 *`EVRST4`* | Animal Kingdom | Expedition Everest 4 | Bridge near Expedition Everest
 *`EXPEDITIONEVERESTRIDE`* | Animal Kingdom | Expedition Everest Ride
 *`EXPHLBBB1`* | | EXPHL Bibbidi Bobbidi Boutique 1 | Princess and Prince hairstyle final photos
-*`FAIRYTALEGARDENCHAR`* | Magic Kingdom | Character greeting with Merida from Brave
+*`FAIRYTALEGARDENCHAR`* | Magic Kingdom | Fairytale Garden Character | Character greeting with Merida from Brave
 `FNTSYBRG` | Magic Kingdom | Fantasy Bridge | bridge to New Fantasy Land, with castle in background
 *`FRNTCHR1`* | ? | Front Character 1 | 
 *`FROZENFOREST`* | Hollywood Studios | Frozen Forest | Frozen castle backdrop
