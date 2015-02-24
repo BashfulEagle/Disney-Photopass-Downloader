@@ -7,9 +7,11 @@
 // @include     https://mydisneyphotopass.disney.go.com/mymedia/
 // @include     https://mydisneyphotopass.disney.go.com/mymedia
 // @include     https://mydisneyphotopass.disney.go.com/mymedia/*
-// @version     2.1.4
+// @version     2.1.5
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js
 // @grant       none
+// @iconURL     https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/images/logo_32.png
+// @icon64URL     https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/images/logo_64.png
 // @downloadURL https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 // @updateURL   https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 // ==/UserScript==
