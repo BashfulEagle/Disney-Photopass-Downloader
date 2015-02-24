@@ -2,9 +2,9 @@
 [logo]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/images/logo_rectangle_64.png
 This repo contains two programs designed to download medium resolution Photopass images. These images are the same ones seen in the built-in slideshow page on the Photopass website. If you want full resolution images, you'll have to actually purchase them, but the medium resolution images are sufficient for facebook.
 
-The first program is a UserScript, which installs to your browser and gives you a couple of links on the Photopass website to download your photos.
+The first program is a [UserScript](#userscript), which installs to your browser and gives you a couple of links on the Photopass website to download your photos.
 
-Alternatively, the Python script, which currently only runs on Linux, lets you batch download all the photos, and it also saves the files with useful names and sets the proper timestamps.
+Alternatively, the [Python script](#python-linux-script), which currently only runs on Linux, lets you batch download all the photos, and it also saves the files with useful names and sets the proper timestamps.
 
 ## UserScript
 A UserScript (greasemonkey script) that alters the Photopass page, allowing you to download each photo individually in medium resolution (max 1280 pixels on one edge). It will also save the filename based on the location and date/time that the photo was taken.
