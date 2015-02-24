@@ -17,7 +17,7 @@ For more detailed steps, [follow these instructions][instructions] for your part
 [tampermonkey]: https://tampermonkey.net/index.php
 [tm_chrome]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkf
 [tm_safari]: https://tampermonkey.net/index.php?ext=dhdg&browser=safari
-[tm_opera]: https://tampermonkey.net/index.php?ext=dhdg&browser=opera
+[tm_opera]: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 [script]: https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
 [instructions]: http://stackapps.com/tags/script/info
 
