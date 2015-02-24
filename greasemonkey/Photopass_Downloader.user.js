@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name        Photopass Downloader
-// @namespace   https://www.schrauger.com
+// @namespace   com.schrauger.photopass.js
+// @author      Stephen Schrauger
 // @description Download all your photopass photos (in medium resolution)
+// @homepage	https://github.com/schrauger/Disney-Photopass-Downloader
 // @include     https://mydisneyphotopass.disney.go.com/mymedia/
 // @include     https://mydisneyphotopass.disney.go.com/mymedia
 // @include     https://mydisneyphotopass.disney.go.com/mymedia/*
-// @version     2.1.3
+// @version     2.1.4
 // @require     https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js
 // @grant       none
 // @downloadURL https://raw.githubusercontent.com/schrauger/Disney-Photopass-Downloader/master/greasemonkey/Photopass_Downloader.user.js
