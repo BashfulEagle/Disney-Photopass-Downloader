@@ -62,9 +62,9 @@ Code | Venue | Acronym | Details
 *`BACKSIDE3`* | Epcot | Backside 3 | 
 *`BACKSIDE4`* | Epcot | Backside 4 |
 *`BARNSTORMERCHAR`* | Magic Kingdom | Barnstormer Character | 
-*`BBBCASTLE1`* | Magic Kingdom | Bibbidi Bobbidi Boutique Castle | Hair Style (Princess)
-*`BBBCASTLE2`* | Magic Kingdom | Bibbidi Bobbidi Boutique Castle | Hair Style (Prince)
-*`BELLEVILLAGEBRIDGEICONNC`* | Magic Kingdom | Belle Village Bridge Icon NC | Bridge near Beast Castle (not bridge leading into Be Our Guest)
+*`BBBCASTLE1`* | Magic Kingdom | Bibbidi Bobbidi Boutique Castle 1 | Hair Style (Princess)
+*`BBBCASTLE2`* | Magic Kingdom | Bibbidi Bobbidi Boutique Castle 2 | Hair Style (Prince)
+*`BELLEVILLAGEBRIDGEICONNC`* | Magic Kingdom | Belle Village Bridge Icon No Character | Bridge near Beast Castle (not bridge leading into Be Our Guest)
 *`BEOURGUESTCHAR`* | Magic Kingdom | Be Our Guest Character | Meeting Beast in the Be Our Guest restaurant
 *`BOATLND`* | Animal Kingdom | Boat Landing | Character greeting (Pocahontas or Daisy Duck)
 *`BRDGBTM`* | Animal Kingdom | Bridge Bottom | Closest to Tree of Life in background
@@ -113,7 +113,7 @@ Code | Venue | Acronym | Details
 *`FUTURE`* | Epcot | Future | Chip & Dale character greeting
 *`FWROVER`* | Epcot | Future World Rover | Finding Nemo statues/props behind waist-high wall
 *`FWROVER2`* | Epcot | Future World Rover 2 | Big fountain
-*`GASTONFOUNTAINICONNC`* | Magic Kingdom | Gaston Fountain Icon NC | In front of Gaston's Tavern and his statue
+*`GASTONFOUNTAINICONNC`* | Magic Kingdom | Gaston Fountain Icon No Character | In front of Gaston's Tavern and his statue
 *`GASTONSTAVERNCHAR`* | Magic Kingdom | Gaston's Tavern Character | By Gaston's Tavern - character greeting
 *`GROTTOACHAR`* | Magic Kingdom | Grotto A Character | Ariel's Grotto character greeting
 *`GROTTOBCHAR`* | Magic Kingdom | Grotto B Character | 
@@ -134,7 +134,7 @@ Code | Venue | Acronym | Details
 *`MAGHAUNT`* | Magic Kingdom | Magic Haunt | By Haunted Mansion, in front of the ghost horse and carriage
 *`MAGICHHGHOST`* | Magic Kingdom | Magic Hitch Hiker Ghost | By Haunted Mansion, between two lamp posts
 *`MAMASCOURTCHAR`* | Hollywood Studios | Mama's Court Character | Character greeting
-*`MERMAIDBRIDGEICONNC`* | Magic Kingdom | Mermaid Bridge Icon NC | In front of the Little Mermaid ride
+*`MERMAIDBRIDGEICONNC`* | Magic Kingdom | Mermaid Bridge Icon No Character | In front of the Little Mermaid ride
 *`MINETRAIN`* | Magic Kingdom | Mine Train | Ride photo
 *`MONSTERS`* | Hollywood Studios | Monsters | Monsters, Inc character greeting with Sully and Mike
 `MSATHCLB` | Magic Kingdom | Main Street Athletic Club |
