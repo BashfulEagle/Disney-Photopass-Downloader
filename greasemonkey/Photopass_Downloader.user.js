@@ -49,11 +49,11 @@ jQuery(document).ready(function () {
     function format_date(date) {
         var str_return = '';
         str_return += date.getFullYear();
-        str_return += '-' + date.getMonth();
-        str_return += '-' + date.getDate();
-        str_return += str_space + date.getHours(); // even when url encoded, disney's api will stop after a space, so we can't have any real spaces in our filename. use 'fake' non-breaking-spaces instead
-        str_return += '_' + date.getMinutes();
-        str_return += '_' + date.getSeconds();
+        str_return += '-' + ("0" + (date.getMonth() + 1)).slice(-2); // zero padded; month is 0-based (jan is 0), so add 1 for human months
+        str_return += '-' + ("0" + date.getDate()).slice(-2); // zero padded
+        str_return += str_space + ("0" + date.getHours()).slice(-2); // even when url encoded, disney's api will stop after a space, so we can't have any real spaces in our filename. use 'fake' non-breaking-spaces instead
+        str_return += '_' + ("0" + date.getMinutes()).slice(-2);
+        str_return += '_' + ("0" + date.getSeconds()).slice(-2);
         return encodeURIComponent(str_return);
     }
 
