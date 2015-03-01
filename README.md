@@ -35,6 +35,8 @@ Each photo will open its own download prompt, so if you have a lot of photos, be
 [after]: /images/with_script.png?raw=true "After script is installed"
 
 ### Known Issues
+* Popup blockers prevent your images from downloading.
+ * Workaround: When the browser notifies you that popups have been blocked, tell it to explicitely allow popups.
 * Firefox prevents this script from opening more than 20 tabs, even if popups are explicitely allowed for the photopass site.
  * Workaround: Use the range function to download photos 20 at a time. After you save the first 20, increment the range input and click 'Open' to download the next 20.
 * Images do not contain date/time EXIF information. This cannot be altered by JavaScript and thus cannot be modified solely with this Greasemonkey script. Try the Linux Python script for those advanced features.
