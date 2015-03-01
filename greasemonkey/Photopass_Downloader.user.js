@@ -75,7 +75,11 @@ jQuery(document).ready(function () {
         }
         var filename = date_created_string + str_space + location + str_space + unique_id + file_extension; // the full filename
         var full_url = url + '?&fname=' + filename; // this works whether '?' is defined or not (url doesn't care that multiple questions marks exist)
-        window.open(full_url); // finally, we download the photo!
+        setTimeout(function(){
+            // run asyncronously so the browser doesn't freeze up
+            sleep(100); // chrome runs this too fast; force it to slow down so that each window opens up individually
+            window.open(full_url, unique_id); // finally, we download the photo!
+        },1000);
     }
 
     /**
@@ -121,3 +125,11 @@ jQuery(document).ready(function () {
         download(((+jQuery("input[name='photopassdownload_start']").val()) - 1), ((+jQuery("label[name='photopassdownload_end']").text()) - 1));
     });
 });
+function sleep(milliseconds) {
+  var start = new Date().getTime();
+  for (var i = 0; i < 1e7; i++) {
+    if ((new Date().getTime() - start) > milliseconds){
+      break;
+    }
+  }
+}   
